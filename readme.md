@@ -69,6 +69,7 @@ python main.py input.png output.png --save-intermediates --invert
 The program saves the generated normal map to the specified output path. If `--save-intermediates` is used, intermediate results (e.g., edges, blurred images, height maps) are saved in a `processing` directory located in the same folder as the input image.
 
 ## License
+This project is licensed under the Apache License 2.0. The full license text can be found in the `LICENSE` file in this repository.
 
 This project uses the following libraries, each under its respective license:
 
